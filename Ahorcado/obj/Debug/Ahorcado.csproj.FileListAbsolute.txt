@@ -1,0 +1,12 @@
+D:\Segundo\INT\Repositorio\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\Segundo\INT\Repositorio\Ahorcado\bin\Debug\Ahorcado.exe
+D:\Segundo\INT\Repositorio\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.Juego.resources
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.Menu.resources
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.exe
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.pdb
+D:\Segundo\INT\Repositorio\Ahorcado\obj\Debug\Ahorcado.Resultado.resources
