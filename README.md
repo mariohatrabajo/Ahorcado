@@ -1,2 +1,2 @@
 # Ahorcado
-El juego del ahorcado
+El juego del ahorcado desarrollado en C#, con Winform.
